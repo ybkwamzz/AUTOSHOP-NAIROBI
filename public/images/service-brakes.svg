@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#0F172A"/>
+  <circle cx="400" cy="300" r="210" fill="#1E293B" stroke="#94A3B8" stroke-width="10"/>
+  <circle cx="400" cy="300" r="145" fill="#0F172A" stroke="#475569" stroke-width="4" stroke-dasharray="18 12"/>
+  <circle cx="400" cy="300" r="70" fill="#334155" stroke="#CBD5E1" stroke-width="4"/>
+  <!-- Brake Caliper -->
+  <path d="M475 135 C555 165 595 235 590 315 L520 315 C522 255 495 210 445 190 Z" fill="#F59E0B" stroke="#FFFBEB" stroke-width="3"/>
+  <text x="80" y="545" fill="#E2E8F0" font-family="monospace" font-size="16" font-weight="bold">VENTILATED DISC ROTOR · CALIPER HYDRAULICS · ABS WHEEL SPEED</text>
+</svg>

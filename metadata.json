@@ -1,0 +1,6 @@
+{
+  "name": "Lang'ata Auto Ops — Workshop Intake & Lead Ledger",
+  "description": "Automotive repair enquiry capture, breakdown triage, and staff lead-ledger operations for Lang'ata, Nairobi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

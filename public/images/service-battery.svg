@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <rect width="800" height="600" fill="#0F172A"/>
+  <!-- 12V Battery Unit -->
+  <rect x="170" y="170" width="460" height="290" rx="14" fill="#1E293B" stroke="#64748B" stroke-width="4"/>
+  <rect x="155" y="145" width="490" height="40" rx="8" fill="#334155" stroke="#94A3B8" stroke-width="2"/>
+  <!-- Terminals -->
+  <rect x="230" y="105" width="48" height="40" rx="4" fill="#EF4444"/>
+  <rect x="522" y="105" width="48" height="40" rx="4" fill="#38BDF8"/>
+  <text x="244" y="133" fill="#FFFFFF" font-family="monospace" font-size="24" font-weight="bold">+</text>
+  <text x="538" y="133" fill="#FFFFFF" font-family="monospace" font-size="24" font-weight="bold">-</text>
+  <!-- Readout -->
+  <rect x="240" y="235" width="320" height="150" rx="8" fill="#0B1120" stroke="#F59E0B" stroke-width="2"/>
+  <text x="275" y="295" fill="#F59E0B" font-family="monospace" font-size="34" font-weight="bold">12.68V / CCA</text>
+  <text x="275" y="340" fill="#94A3B8" font-family="monospace" font-size="16">ALTERNATOR &amp; STARTER DRAW</text>
+</svg>

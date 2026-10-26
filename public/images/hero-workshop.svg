@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="720" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="55%" stop-color="#1E293B"/>
+      <stop offset="100%" stop-color="#0B1120"/>
+    </linearGradient>
+    <linearGradient id="amberGlow" x1="200" y1="100" x2="900" y2="620" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#0284C7" stop-opacity="0.06"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#334155" stroke-width="0.75" stroke-opacity="0.45"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="720" fill="url(#bg)"/>
+  <rect width="1280" height="720" fill="url(#grid)"/>
+  <ellipse cx="640" cy="360" rx="520" ry="260" fill="url(#amberGlow)"/>
+  <!-- Workshop Hydraulic Lift Pillars -->
+  <rect x="170" y="90" width="38" height="530" rx="4" fill="#334155" stroke="#64748B" stroke-width="2"/>
+  <rect x="1072" y="90" width="38" height="530" rx="4" fill="#334155" stroke="#64748B" stroke-width="2"/>
+  <rect x="140" y="610" width="1000" height="18" rx="4" fill="#475569"/>
+  <!-- Lift Crossbeam -->
+  <rect x="208" y="445" width="864" height="22" rx="4" fill="#F59E0B"/>
+  <rect x="280" y="425" width="90" height="20" rx="3" fill="#94A3B8"/>
+  <rect x="910" y="425" width="90" height="20" rx="3" fill="#94A3B8"/>
+  <!-- SUV / Utility Vehicle Silhouette on Inspection Bay -->
+  <path d="M310 385 L345 270 C355 245 375 235 410 235 L765 235 C800 235 825 250 845 285 L945 315 C968 322 980 340 980 365 L980 405 L310 405 Z" fill="#1E293B" stroke="#E2E8F0" stroke-width="3"/>
+  <!-- Windows -->
+  <path d="M415 252 L565 252 L565 312 L375 312 Z" fill="#0F172A" stroke="#64748B" stroke-width="2"/>
+  <path d="M585 252 L755 252 L815 312 L585 312 Z" fill="#0F172A" stroke="#64748B" stroke-width="2"/>
+  <!-- Wheels & Brake Discs -->
+  <circle cx="430" cy="405" r="56" fill="#0F172A" stroke="#94A3B8" stroke-width="8"/>
+  <circle cx="430" cy="405" r="28" fill="#1E293B" stroke="#F59E0B" stroke-width="3"/>
+  <circle cx="855" cy="405" r="56" fill="#0F172A" stroke="#94A3B8" stroke-width="8"/>
+  <circle cx="855" cy="405" r="28" fill="#1E293B" stroke="#F59E0B" stroke-width="3"/>
+  <!-- OBD-II Telemetry Diagnostic Readout Panel -->
+  <rect x="740" y="105" width="300" height="145" rx="8" fill="#0F172A" stroke="#38BDF8" stroke-width="2"/>
+  <text x="762" y="138" fill="#38BDF8" font-family="monospace" font-size="15" font-weight="bold">OBD-II BAY DIAGNOSTICS</text>
+  <line x1="762" y1="150" x2="1018" y2="150" stroke="#1E293B" stroke-width="2"/>
+  <text x="762" y="176" fill="#E2E8F0" font-family="monospace" font-size="14">BATTERY LOAD: 12.6V / 14.1V</text>
+  <text x="762" y="200" fill="#E2E8F0" font-family="monospace" font-size="14">BRAKE PRESSURE: NOMINAL</text>
+  <text x="762" y="224" fill="#F59E0B" font-family="monospace" font-size="14">AREA: LANG'ATA, NAIROBI</text>
+  <!-- Connection Line from Scanner to Engine Bay -->
+  <path d="M890 250 L890 335 L930 335" stroke="#38BDF8" stroke-width="2.5" stroke-dasharray="6 4"/>
+  <circle cx="930" cy="335" r="6" fill="#F59E0B"/>
+</svg>
